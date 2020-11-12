@@ -1,0 +1,35 @@
+[33mcommit 600dde052ba320e06e3bb9dc6d817aa440702554[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sunny <reddy.sanhith@gmail.com>
+Date:   Sun Jul 19 09:13:41 2020 -0500
+
+    new files
+
+[33mcommit 4f51f5cda87dcc363d694588180ab110f0d59488[m[33m ([m[1;32mmyfirstbranch[m[33m)[m
+Author: Sunny <reddy.sanhith@gmail.com>
+Date:   Sun Jul 19 09:10:31 2020 -0500
+
+    New branch new color change to black
+
+[33mcommit c79788c53b1624644b7a00973aa157b7ce3df673[m
+Author: Sunny <reddy.sanhith@gmail.com>
+Date:   Sun Jul 19 08:47:45 2020 -0500
+
+    changed background color to green
+
+[33mcommit ec044798a15d87e636cc362d03f57219cb146629[m
+Author: Sunny <reddy.sanhith@gmail.com>
+Date:   Sun Jul 19 08:43:39 2020 -0500
+
+    add basic styles
+
+[33mcommit 4995d7ea677549d5f55b493f7cf1d70b37472e16[m
+Author: Sunny <reddy.sanhith@gmail.com>
+Date:   Sun Jul 19 08:41:39 2020 -0500
+
+    add app logic
+
+[33mcommit 3f4b93dc8e6fc855ac1bc247bfdd61c08af13125[m
+Author: Sunny <reddy.sanhith@gmail.com>
+Date:   Sun Jul 19 08:26:01 2020 -0500
+
+    create index.html file
